@@ -1,0 +1,9 @@
+{
+  "name": "LabCalendar-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/LabCalendar-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["LabCalendar"],
+  "// targets": "to see all targets run: nx show project LabCalendar-e2e --web",
+  "targets": {}
+}
